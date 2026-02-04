@@ -9,7 +9,7 @@
 - Web app deployment
 - System design fundamentals
 
-## 🚀 Featured Projects
+## Featured Projects
 - **Google Patent Scraper** — Python tool for scraping and analyzing patent data  
 - **File I/O & Data Presentation** — Validates input, stores data, and visualizes results  
 - **Smart Notification System (Work in Progress)** — Team project adding smart alerts to legacy appliances
