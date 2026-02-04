@@ -7,5 +7,5 @@
 
 <div align="center">
   <p>Visitor count</p>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=AmarjotSinghSandhu.AmarjotSinghSandhu" />
+  <img src="https://profile-counter.glitch.me/AmarjotSinghSandhu/count.svg" alt="Visitor Count" />
 </div>
