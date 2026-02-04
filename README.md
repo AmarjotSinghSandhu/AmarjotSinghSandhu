@@ -5,7 +5,7 @@
 - 🌱 I’m currently interested in learning backend development, and deploying my own webapps.
 - 👀 Fun fact: I am really looking forward to "The Fall Off" Album.
 
-<div align="center"> 
+<div align="center">
   <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/AmarjotSinghSandhu/count.svg" alt="Visitor's Count" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr?url=https://github.com/AmarjotSinghSandhu&label=Profile%20views&color=0E0E0E" alt="visitor count" />
 </div>
