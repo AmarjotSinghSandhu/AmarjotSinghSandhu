@@ -7,5 +7,5 @@
 
 <div align="center">
   <p>Visitor count</p>
-  <img src="https://hits.seeyoufarm.com/api/count/incr?url=https://github.com/AmarjotSinghSandhu&label=Profile%20views&color=0E0E0E" alt="visitor count" />
+  <img src="https://visitor-badge.glitch.me/badge?page_id=AmarjotSinghSandhu.AmarjotSinghSandhu" />
 </div>
