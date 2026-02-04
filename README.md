@@ -5,7 +5,11 @@
 - 🌱 I’m currently interested in learning backend development, and deploying my own webapps.
 - 👀 Fun fact: I am really looking forward to "The Fall Off" Album.
 
-<div align="center">
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/AmarjotSinghSandhu/count.svg" alt="Visitor Count" />
-</div>
+## Stats
+
+![Amarjot's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmarjotSinghSandhu&show_icons=true&theme=default)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmarjotSinghSandhu&layout=compact)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
