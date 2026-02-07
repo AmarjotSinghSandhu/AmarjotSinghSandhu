@@ -17,7 +17,6 @@
 ## Stats
 ![Amarjot's GitHub Stats](https://github-readme-stats-two-xi-19.vercel.app/api?username=AmarjotSinghSandhu&show_icons=true&cache_seconds=1800)
 
-
 ## Top Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
