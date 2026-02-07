@@ -14,6 +14,9 @@
 - **File I/O & Data Presentation** — Validates input, stores data, and visualizes results  
 - **Smart Notification System (Work in Progress)** — Team project adding smart alerts to legacy appliances
 
+## Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmarjotSinghSandhu)](https://github.com/AmarjotSinghSandhu/github-readme-stats)
+
 ## Top Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
