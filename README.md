@@ -15,7 +15,8 @@
 - **Smart Notification System (Work in Progress)** — Team project adding smart alerts to legacy appliances
 
 ## Stats
-![Amarjot's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmarjotSinghSandhu&show_icons=true&theme=default)
+![Amarjot's GitHub Stats](https://github-readme-stats-two-xi-19.vercel.app/api?username=AmarjotSinghSandhu&show_icons=true&cache_seconds=1800)
+
 
 ## Top Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
